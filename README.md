@@ -5,4 +5,6 @@ Welcome the Raspberry Pi For Computer Vision Bug Tracker.  This tracker is for c
 
 If you have found an issue or bug please report it as an [issue](https://github.com/PyImageSearch/Raspberry-Pi-for-Computer-Vision-RPi4CV/issues)
 
-We continual update our books and courses, including this one.  Thank you for reporting any bugs or issues you encounter while working through [Raspbery Pi for Computer Vision](https://www.pyimagesearch.com/raspberry-pi-for-computer-vision/)
+We update our books and courses, including this one.  Thank you for reporting any bugs or issues you encounter while working through [Raspbery Pi for Computer Vision](https://www.pyimagesearch.com/raspberry-pi-for-computer-vision/)
+
+We do not answer student questions on GitHub.  To ask a question please use our community forum.
